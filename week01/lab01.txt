@@ -22,3 +22,5 @@ drwxr-xr-x  2 tjokorde.gde StafCS 4096 Feb 18 03:24 week09
 drwxr-xr-x  2 tjokorde.gde StafCS 4096 Feb 18 03:24 week10
 drwxr-xr-x  2 tjokorde.gde StafCS 4096 Feb 18 03:25 xtra
 /home/fasilkom/mahasiswa/t/tjokorde.gde/os171/week01
+Today is date +%d\ %b\ %y\ at\ %H:%M:%S
+Today is 18 Feb 17 at 03:59:53
