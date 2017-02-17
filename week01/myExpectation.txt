@@ -1,1 +1,1 @@
-#Northavon
+I expect to learn a lot about the basics of how Operating Systems works, the technology behind it,  and also learn about scripting
