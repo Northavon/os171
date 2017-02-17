@@ -1,0 +1,2 @@
+Learned how to connect to badak, using badak to perform git commands
+and also learned how to do basic command prompr commands on the badak platform
